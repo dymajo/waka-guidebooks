@@ -16,6 +16,10 @@ Snapper cards cost \$10 and can be purchased and topped up at [many convenience 
 
 To use a paper ticket, hand it to the ticket inspector on-board the train when they come around during your journey. While rail replacement buses have Snapper readers, they do not take Snapper - only train tickets or cash is accepted.
 
+### Cable Car
+
+In addition to Snapper, tickets for the Cable Car can also be purchased at the booth at the Lambton Quay station, or [online](https://www.wellingtoncablecar.co.nz/English/Tickets). Snapper is cheapest for occasional trips, but 10-Trip or 25-Trip tickets are available - see the fares section for further details.
+
 ### Ferries
 
 Tickets for ferries can be purchased at the East by West ticket office at Queens Wharf or on-board - credit cards, EFTPOS and cash are accepted. Single, return, 10-trip, and monthly passes are available.
@@ -76,12 +80,61 @@ Off-peak discounts do not apply to child or concession fares. Concessions are lo
 
 ### Daily & Monthly Passes
 
-todo
+If you're travelling to Wellington station every day (Zone 1) from at least Zone 4, your monthly pass will also include bus travel in Zone 4 and above. There are no monthly pass discounts for tertiary, accessible, off-peak etc, so check to make sure that you're getting the best value.
+
+| Number of Zones Traveled | Adult    | Child    |
+| ------------------------ | -------- | -------- |
+| 1                        | \$51.30  | \$25.80  |
+| 2                        | \$84.30  | \$42.30  |
+| 3                        | \$112.30 | \$56.10  |
+| 4                        | \$126.00 | \$63.00  |
+| 5                        | \$153.90 | \$77.10  |
+| 6                        | \$195.60 | \$97.80  |
+| 7                        | \$222.00 | \$111.00 |
+| 8                        | \$248.10 | \$124.20 |
+| 9                        | \$279.90 | \$140.10 |
+| 10                       | \$307.80 | \$153.90 |
+| 11                       | \$352.20 | \$176.10 |
+| 12                       | \$378.60 | \$189.30 |
+| 13                       | \$417.60 | \$208.80 |
+| 14                       | \$444.90 | \$222.60 |
 
 ## Cable Car Fares
 
-todo
+Snapper is the cheapest option for occasional trips, while purchasing a 10-Trip or 25-Trip ticket is better for regular commuters. Family passes are also available, and regular off-peak SuperGold benefits apply. For more information, please see the [Wellington Cable Car Website](https://www.wellingtoncablecar.co.nz/English/TimetableFares.html).
+
+| Type       | One Way (Snapper) | One Way (Cash) | Return (Cash) | 10 Trips (Cash) | 25 Trips (Cash) |
+| ---------- | ----------------- | -------------- | ------------- | --------------- | --------------- |
+| Adult      | \$3.60            | \$5.00         | \$9.00        | \$29.00         | \$58.00         |
+| Child      | \$2.10            | \$2.50         | \$4.50        | \$14.50         | \$29.00         |
+| Tertiary   | \$2.20            | \$3.00         | \$5.00        | \$15.00         | \$30.00         |
+| Accessible | \$3.00            |
 
 ## Ferry Fares
 
-todo
+Family passes are also available, and regular off-peak SuperGold benefits apply. For more information, please see the [East by West Website](https://eastbywest.co.nz/timetables-and-fares).
+
+### Queens Wharf / Seatoun - Days Bay
+
+| Type               | One Way | 10 Trips | Monthly  |
+| ------------------ | ------- | -------- | -------- |
+| Adult              | \$12.00 | \$90.00  | \$270.00 |
+| Child / Concession | \$6.00  | \$45.00  | \$135.00 |
+| Tertiary           |         | \$68.00  |          |
+
+### Matiu / Somes Island
+
+| Type               | Return  |
+| ------------------ | ------- |
+| Adult              | \$25.00 |
+| Child / Concession | \$13.00 |
+
+### Queens Wharf - Seatoun
+
+While this is a nice trip, the bus is 10 minutes slower and almost a quarter of the price.
+
+| Type               | One Way | 10 Trips |
+| ------------------ | ------- | -------- |
+| Adult              | \$12.00 | \$72.00  |
+| Child / Concession | \$6.00  | \$54.00  |
+| Tertiary           |         | \$36.00  |
