@@ -1,4 +1,4 @@
-# Getting to/from the Airport
+# Getting to the Airport
 
 ## Route 2
 
