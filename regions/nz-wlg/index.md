@@ -1,4 +1,12 @@
-# Wellington
+# Guidebook
 
-- [Ticketing, Zones, and Fares](./nz-wlg/ticketing-zones-fares)
-- [Getting to the Airport](./nz-wlg/airport)
+<p class="splash">
+  Welcome to Wellington! This guide will help you get around using Wellington's public transport network.
+</p>
+
+<nav>
+  <ul>
+    <li><a href="./nz-wlg/ticketing-zones-fares">Ticketing, Zones, and Fares</a></li>
+    <li><a href="./nz-wlg/airport">Getting to the Airport</a></li>
+  </ul>
+</nav>
