@@ -1,7 +1,4 @@
 # Wellington
 
-- [Ticketing, Zones, and Fares](./ticketing-zones-fares)
-- Pro Tips
-- Getting to the Airport
-- Regional Services
-- Fun Facts
+- [Ticketing, Zones, and Fares](./nz-wlg/ticketing-zones-fares)
+- [Getting to/from the Airport](./nz-wlg/airport)
