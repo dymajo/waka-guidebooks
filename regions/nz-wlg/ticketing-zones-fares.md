@@ -12,9 +12,9 @@ Snapper cards cost \$10 and can be purchased and topped up at [many convenience 
 
 ### Trains
 
-**Wellington Trains do not have electronic ticketing**. **Only Cash** is accepted on the train, but 10-Trip or monthly passes can be purchased at [some train stations and convenience stores](https://www.metlink.org.nz/tickets-and-fares/where-to-buy-your-train-tickets/). Special tickets for off-peak travel or concessions are also available - see the [fares](#bus-train-fares) section for more information.
+**Wellington Trains do not have electronic ticketing**. **Only Cash** is accepted on the train, but 10-Trip or monthly passes can be purchased with credit cards, EFTPOS, or cash at [some train stations and convenience stores](https://www.metlink.org.nz/tickets-and-fares/where-to-buy-your-train-tickets/). Special tickets for off-peak travel or concessions are also available - see the [fares](#bus-train-fares) section for more information.
 
-To use a paper ticket, hand it to the ticket inspector on-board the train when they come around during your journey. While rail replacement buses have Snapper readers, they do not take Snapper - only train tickets or cash is accepted.
+To use a paper ticket, hand it to the ticket inspector on-board the train when they come around during your journey. While rail replacement buses have Snapper readers, they do not take Snapper - only train tickets or cash is accepted. 
 
 ### Cable Car
 
