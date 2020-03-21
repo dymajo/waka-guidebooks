@@ -78,7 +78,7 @@ Off-peak discounts do not apply to child or concession fares. Concessions are lo
 | 13                       | \$6.96          | \$9.00       | \$10.44  | \$6.96     |
 | 14                       | \$7.42          | \$9.50       | \$11.12  | \$7.42     |
 
-### Daily & Monthly Passes
+### Monthly Passes
 
 If you're travelling to Wellington station every day (Zone 1) from at least Zone 4, your monthly pass will also include bus travel in Zone 4 and above. There are no monthly pass discounts for tertiary, accessible, off-peak etc, so check to make sure that you're getting the best value.
 
@@ -98,6 +98,17 @@ If you're travelling to Wellington station every day (Zone 1) from at least Zone
 | 12                       | \$378.60 | \$189.30 |
 | 13                       | \$417.60 | \$208.80 |
 | 14                       | \$444.90 | \$222.60 |
+
+### Day Passes
+
+If you're visiting Wellington, you can buy a day pass onboard a bus or a train. They're valid after 9am on weekdays, or all day on weekends and public holidays. An accompanying child travels free.
+
+| Number of Zones Traveled | Adult   | 
+| ------------------------ | ------- | 
+| 1 - 3                    | \$10.00 | 
+| 1 - 7                    | \$15.00 | 
+| 1 - 10                   | \$20.00 | 
+| 1 - 14                   | \$25.00 | 
 
 ## Cable Car Fares
 
