@@ -14,17 +14,4 @@ If you are being picked up from the airport, request the ride as soon as you see
 
 ## Airport Flyer
 
-The Airport Flyer is an express service that travels via Lower Hutt, Wellington, Haitaitai, and Kilbirnie to the airport. It follows a similar route to the Route 2 but makes less stops, continues to Lower Hutt, and takes you directly into the airport terminal. Frequency is around every 10 minutes at peak, and every 20 minutes at other times - please see the [NZ Bus Website for full timetables](https://www.nzbus.co.nz/data/content/files/airport-flyer-timetables.pdf). The journey is around 20 minutes from Wellington CBD - it not significantly faster than taking the Route 2. However, **it is a good option if you are traveling to/from Lower Hutt**.
-
-The Airport Flyer does not show on any of the realtime displays, or in Waka. It also does not take Snapper, but EFTPOS, Credit Card, and Contactless Payments are available on-board. SuperGold cards are accepted. A route map is available on the [NZ Bus Website](https://www.nzbus.co.nz/data/content/files/airport-flyer-route-maps.pdf).
-
-### Fares
-
-| Journey                               | Adult   | Child   |
-| ------------------------------------- | ------- | ------- |
-| Airport to Wellington Railway Station | \$12.00 | \$9.00  |
-| Airport to Queensgate                 | \$18.00 | \$14.00 |
-| Queensgate to Courtenay Place         | \$12.00 | \$9.00  |
-| Courtenay Place to Queensgate         | \$12.00 | \$9.00  |
-| Queensgate to Airport                 | \$18.00 | \$14.00 |
-| Wellington Railway Station to Airport | \$12.00 | \$9.00  |
+The Airport Flyer no longer exists - there is no regularly scheduled bus that travels directly to Wellington Airport.
